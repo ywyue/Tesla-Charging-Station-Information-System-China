@@ -13,5 +13,5 @@ This is my final project of *Web GIS and geographic information service course d
 Here are some screenshots of the system.<br/>
 
 <p align="center">
-  <img src="https://yueyuanwen.github.io/files/tesla_station_screenshot.png?raw=true" alt="Photo" style="width: 500px;"/> 
+  <img src="https://github.com/ywyue/Tesla-Charging-Station-Information-System-China/blob/master/tesla_station.png" alt="Photo" style="width: 500px;"/> 
 </p>
