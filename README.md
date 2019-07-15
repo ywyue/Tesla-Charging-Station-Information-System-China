@@ -7,5 +7,5 @@ This is my final project of *Web GIS and geographic information service course d
 * Server: Tomcat 9.0.19、Geoserver 2.15.1<br/>
 * Client: Chrome、IE<br/>
 * Database: PostSQL 10<br/>
-* JavaScript library: Openlayers 4.6.5、jQuery、ECharts、AMap JS API<br/>
+* JavaScript library: Openlayers 4.6.5、jQuery、ECharts、AMap JS API、Bootstrap<br/>
 * Cloud platform: Alibaba Cloud Windows Server 2012 R2 64-bit <br/>
