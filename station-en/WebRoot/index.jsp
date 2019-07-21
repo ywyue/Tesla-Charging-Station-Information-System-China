@@ -1286,7 +1286,7 @@ input:checked+label::after {
 	</script>
 
 	<script type="text/javascript">
-WIDGET = {FID: 'wm6Y0s1dnv'}
+WIDGET = {FID: '9SoPMYeKW5'}
 </script>
 <script type="text/javascript" src="https://apip.weatherdt.com/float/static/js/r.js?v=1111"></script>
 
